@@ -12,7 +12,7 @@ python-vlc==3.0.11115
 PyYAML==5.3.1
 requests==2.33.0
 standardjson==0.3.1
-urllib3==1.26.2
+urllib3==2.8.0
 webhooks==0.4.2
 Werkzeug==1.0.1
 wrapt==1.12.1
